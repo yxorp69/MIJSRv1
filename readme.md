@@ -2,6 +2,7 @@
 
 Mini In-Browser JavaScript Runner (MIJSR)
 
+Note: this is an archived version of MIJSRv1
 ---
 
 This repo provides a tiny popup UI (`ui.html`) that you can open from a **console command** or a **bookmarklet**. Use the UI to paste JavaScript and run it in the page you opened the launcher from, or type the name of an app (see `apps/`).
