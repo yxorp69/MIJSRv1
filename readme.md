@@ -2,7 +2,7 @@
 
 Mini In-Browser JavaScript Runner (MIJSR)
 
-### Note: this is an archived version of MIJSRv1
+### Note: this is an archived/broken version of MIJSRv1
 
 ---
 
